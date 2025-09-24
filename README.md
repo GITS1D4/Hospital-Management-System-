@@ -11,6 +11,7 @@
 - Doctor records management
 - Integration of Java with MySQL using JDBC
 - Simple and efficient console-based interface
+
 🛠 Tech Stack
 - Programming Language: Java
 - Database: MySQL
