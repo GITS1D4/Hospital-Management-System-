@@ -42,8 +42,8 @@ SOURCE hospital.sql;
 In your Java code (`HospitalManagementSystem.java`), update:
 ```java
 private static final String url = "jdbc:mysql://localhost:3306/hospital";
-private static final String username = "root";
-private static final String password = "My$qL944#j2";
+private static final String username = "Mysql_username";
+private static final String password = "Mysql_password";
 ```
 
 ### 4️⃣ Compile and Run
